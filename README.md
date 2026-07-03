@@ -1,8 +1,15 @@
-# 🍺 SmartBar AI
+# 🚀 SmartOps AI
 
 ## Overview
 
-SmartBar AI is a cloud-based inventory, sales, and business management platform built for bars, restaurants, lounges, clubs, and hospitality businesses.
+An AI-powered operations platform for hospitality and retail businesses.
+
+Modules include:
+
+• SmartBar
+• SmartRestaurant
+• SmartHotel
+• SmartRetail
 
 The system helps business owners:
 
